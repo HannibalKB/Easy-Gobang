@@ -1,0 +1,3 @@
+# easygobang
+Easy Gobang  game  based on c console
+C语言控制台  简单五子棋  人机对战正在研究中...
